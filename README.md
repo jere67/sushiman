@@ -1,8 +1,10 @@
 # Sushi Website
-![Sushi](https://i.ibb.co/mv4Zb4h/Sushi.png)
 
-## Introduction
+## Overview
 A website to promote a sushi restaurant using #HTML and #CSS. Modern, fully responsive HTML & CSS website with animations. My first front-end project.
+
+## Preview - [Live Site](https://sushimanwebsite.netlify.app/)
+![Sushi](https://i.ibb.co/mv4Zb4h/Sushi.png)
 
 ## Acknowledgements
 - Adrian Hajdin (JSMastery)
